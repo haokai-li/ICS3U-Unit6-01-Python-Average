@@ -25,7 +25,6 @@ def main():
     # process
     for loop_number_second in range(0, len(my_numbers)):
         total_number = total_number + my_numbers[loop_number_second]
-
         # output
         print("The random number is {0}".format(my_numbers[loop_number_second]))
 
