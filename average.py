@@ -35,6 +35,8 @@ def main():
     print("")
     print("Answer: {0}".format(average_number))
 
+    print("\nDone.")
+
 
 if __name__ == "__main__":
     main()
